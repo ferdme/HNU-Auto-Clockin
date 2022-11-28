@@ -8,7 +8,7 @@ on:
     schedule:
     - cron: '30 16 * * *'
       # 👆在上面那行修改打卡时间
-      # 0:30 everyday in UTC+8, 17:30 everyday in UTC+0
+      # 0:30 everyday in UTC+8, 16:30 everyday in UTC+0
 
 jobs:
   build:
